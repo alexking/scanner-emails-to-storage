@@ -1,0 +1,12 @@
+storage: 
+  endPoint: localhost
+  port: 9000
+  secure: false
+  accessKey: 
+  secretKey: 
+  bucket: test
+
+smtp:
+  port: 1025
+  username: 
+  password: 

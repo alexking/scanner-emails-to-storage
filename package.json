@@ -1,0 +1,18 @@
+{
+  "name": "smtp-attachments-to-storage",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "dependencies": {
+    "mailparser": "^2.2.0",
+    "minio": "^5.0.0",
+    "node-yaml": "^3.1.1",
+    "null-writable": "^0.2.1",
+    "path": "^0.12.7",
+    "smtp-server-as-promised": "^3.3.2"
+  },
+  "devDependencies": {
+    "mail": "^0.2.3",
+    "nodemailer": "^4.6.4"
+  }
+}
