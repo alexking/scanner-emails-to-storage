@@ -270,9 +270,13 @@ node-yaml@^3.1.1:
     junk "2.1.0"
     promise-fs "1.2.3"
 
-nodemailer@^4.6.3, nodemailer@^4.6.4:
+nodemailer@^4.6.3:
   version "4.6.4"
   resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-4.6.4.tgz#f0d72d0c6a6ec5f4369fa8f4bf5127a31baa2014"
+
+nodemailer@^6.4.16:
+  version "6.4.16"
+  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-6.4.16.tgz#5cb6391b1d79ab7eff32d6f9f48366b5a7117293"
 
 null-writable@^0.2.1:
   version "0.2.1"

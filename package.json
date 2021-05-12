@@ -13,6 +13,6 @@
   },
   "devDependencies": {
     "mail": "^0.2.3",
-    "nodemailer": "^4.6.4"
+    "nodemailer": "^6.4.16"
   }
 }
